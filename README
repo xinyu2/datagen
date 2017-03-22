@@ -1,0 +1,16 @@
+##=========================================================
+## Python data generator
+##---------------------------------------------------------
+## specgen.py:         generate spec.arff(data description)
+## python specgen.py $na $nc $span $cmpr $dist
+## parameters: number of attributes, number of classes,
+##             stretch means, compress standard deviation
+##             normal/uniform distribution for means
+## output: spec.arff, head.arff                                                 
+##---------------------------------------------------------
+## datagen.py:         generate data according to spec.arff
+## python datagen.py $N $spec
+## parameters: number of data points,
+##             filepath to spec.arff
+## output: data.arff                                                 
+##---------------------------------------------------------

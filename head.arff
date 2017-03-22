@@ -1,0 +1,12 @@
+@relation multiple-gaussian 
+@attribute a1 numeric	{-3.37322238851,3.91002395169}
+@attribute a2 numeric	{-4.35134180473,2.83069678439}
+@attribute a3 numeric	{-4.99793109826,2.51515336139}
+@attribute a4 numeric	{-3.72320399722,2.89989226111}
+@attribute a5 numeric	{-3.68789360733,4.03823508774}
+@attribute a6 numeric	{-4.07871185338,4.63699477284}
+@attribute a7 numeric	{-2.82968467597,2.53956493283}
+@attribute a8 numeric	{-2.74305501896,3.23783739073}
+@attribute a9 numeric	{-4.37600288941,3.34572914504}
+@attribute a10 numeric	{-3.46478673154,2.50020926786}
+@attribute class {1,2,3,4,5,6,7,8,9,10} 
